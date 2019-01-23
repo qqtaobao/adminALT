@@ -1,6 +1,6 @@
 ﻿一、创建项目
 	cnpm i express-generator -g (只需要执行一次);
-	express myapp --view=ejs (要使用ejs模板--跟html最相近)
+	express myapp --view=ejs (要使用ejs模板--跟html最相近)；
 	cd myapp
 
 	cnpm i 
